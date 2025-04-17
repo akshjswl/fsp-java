@@ -64,14 +64,39 @@ Inheritance is the mechanism by which one class aquires the features of another 
 5. hybrid
 
 
-single level:  
+1. single level:  
 ![single level](<WhatsApp Image 2025-04-17 at 14.28.08_78f6cf81.jpg>)
 Here one class is derived from another class 
 
 
 
-multi level: 
+2. multi level: 
 ![multi level](<WhatsApp Image 2025-04-17 at 14.27.47_2b2a0c93.jpg>)
 
 Here one class is derived from another class and from that derived class another class is derived
 
+
+
+3. multiple inheritance: In multiple inheritance only one class is derived from more than one class is derived from more than on e base class
+![alt text](<WhatsApp Image 2025-04-17 at 14.53.37_aa38c6b0.jpg>)
+
+note: java doesnot support the multiple inheritance directly
+
+
+
+
+![alt text](<WhatsApp Image 2025-04-17 at 14.54.03_ff4f9919.jpg>)
+
+why multiple inheritance is not supported in java 
+in case of hybrid inheritamnce if multiple path existed btween grandparents and grand child than the variables of the grandparents class are unnecicceraly replicated in the grandchild class to stop this from happening java doesnot support the concept of multiple inheritance directly
+
+the concept of multiple inheritance indirectly supported using the concept called interface
+
+4. Hierarchical inheritance: 
+
+
+![alt text](<WhatsApp Image 2025-04-17 at 14.57.38_aa0446e0.jpg>)
+
+
+
+In hierarchical inheritance more than one child class is derived from a single base class

@@ -106,3 +106,18 @@ In hierarchical inheritance more than one child class is derived from a single b
 ![alt text](<WhatsApp Image 2025-04-17 at 15.09.40_cec23758.jpg>)
 
  In java hybrid inheritance is the collection of all the above inheritances except multiple 
+
+
+## Variable Overriding
+In java it is possible to have a variable in the child class with the same name as that of the variable in its parent class. In such case the child class variable tends to hide the parent class variable in the child class. This mechanism is called variable overriding. In order to access the hidden parent class variable in the child class we require the help of super keyword.
+ 
+ wap to display variable overriding in java.
+
+ through variable overriding java supports the concept of polymorphism
+
+
+ ## method overriding
+ 
+ In java it is possible to have a method in the child class with the same name as that of it parent class. In such cases the method in the child class tends to hide methods of the parent class in the child class. This mechanism is called method overriding and the methods are called overrided methods
+
+ in order to access the hidden parent class method in the child class we require the help of super keyword

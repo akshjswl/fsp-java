@@ -100,3 +100,5 @@ the concept of multiple inheritance indirectly supported using the concept calle
 
 
 In hierarchical inheritance more than one child class is derived from a single base class
+
+5. Hybrid Inheritance: In java hybrid inheritance is the collection of all the above inheritances except multiple

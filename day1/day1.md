@@ -67,7 +67,7 @@ Do not support Pointers and Multiple inheritance
 ## Why Java is called a platform independent programming language?
 When we compile a java program it creates a highly optimisable code which is called a byte code. This byte code can run on any computer with different hardware or software architecture.
 This is the reason why  Java is called a platform independent programming language.
-
+(jvm)
 ## Why Java is called a compilated as well as interpreted language?
 In Java both compiler and interpreter are require in order to compile  and run a java program. The java Compiler accepts the source code as input and translate it into the corresponding byte code. The java interpreter accepts byte code as input and translate it onto the corresponding executable code .As compiler and interpreter both required hence java is called a compilated and interpreted language 
 

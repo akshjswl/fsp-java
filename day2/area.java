@@ -1,3 +1,4 @@
+// wap to calculate the area of rectangle and that of a circle by overloading the area method.
 class areaCalculator{
     double area(double length, double breadth ){
     return length*breadth;
@@ -6,7 +7,7 @@ class areaCalculator{
         return 3.14*radius*radius;
     }
 }
-public class area{
+class area{
     public static void main(String[] args) {
         areaCalculator calc =new areaCalculator();
         double rectangleArea = calc.area(8.0,5.0);

@@ -24,9 +24,9 @@ primitive data type
 
 ## method overloading
 In java it is posssible to have multiple method within the same class, with the same name as long as they differ in their argument list. 
-this mechanism is called method overloading and the method are called as overloaded methods
+this mechanism is called method overloading and the method are called as overloaded methods.
+Using method overloading java supports the concept of Polymorphosim.
 
-using method overloading java supports the concept of Polymorphosim.
 
-
-wap to calculate the area of rectangle and that of a circle by overloading the area method.
+## constructor overloading
+In java it is possible to have multiple constructor within a class as long as they differin their number or types of arguments. This mechanism is called constructor overloading and the constructors are called overloaded constructors. 

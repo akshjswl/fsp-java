@@ -33,3 +33,13 @@ In java it is possible to have multiple constructor within a class as long as th
 
 
 using constructor overloading we can initailize diffrent object of thew same class with diffrent values
+
+
+## nested class in java
+
+in java it is possible to have one class inside another class. this is known nesting of classes 
+it has two types:
+1. static nested class
+2. non-static nested class
+
+static nested class: A static nested class can directly access the static variables of its outer class 

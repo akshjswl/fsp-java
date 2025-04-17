@@ -53,3 +53,25 @@ non-static nested class: A non static nested class is a nested class which doesn
 ![non-static nested class](<WhatsApp Image 2025-04-17 at 12.39.59_49deebf8.jpg>)
 
 A non-static nested class is technically called an inner class.
+
+## inheritance
+
+Inheritance is the mechanism by which one class aquires the features of another class
+1. single level
+2. multi level
+3. multiple
+4. hierarchical
+5. hybrid
+
+
+single level:  
+![single level](<WhatsApp Image 2025-04-17 at 14.28.08_78f6cf81.jpg>)
+Here one class is derived from another class 
+
+
+
+multi level: 
+![multi level](<WhatsApp Image 2025-04-17 at 14.27.47_2b2a0c93.jpg>)
+
+Here one class is derived from another class and from that derived class another class is derived
+

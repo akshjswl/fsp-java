@@ -44,6 +44,5 @@ it has two types:
 
 static nested class: A static nested class can directly access the static variables of its outer class. It can not directly access the non static members of its outer class 
 
-// wap to display use of static nested class
 
 ![static nested class](<WhatsApp Image 2025-04-17 at 12.14.05_18e6e503.jpg>)

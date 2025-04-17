@@ -17,3 +17,12 @@ primitive data type
 2. array
 3. class 
 4. interface
+
+
+
+### Polymorphosim
+
+## method overloading
+In java it is posssible to have multiple method within the same class, with the same name as long as they differ in their argument list. 
+this mechanism is called method overloading and the method are called as overloaded methods
+

@@ -46,3 +46,8 @@ static nested class: A static nested class can directly access the static variab
 
 
 ![static nested class](<WhatsApp Image 2025-04-17 at 12.14.05_18e6e503.jpg>)
+
+
+non-static nested class: A non static nested class is a nested class which doesnot have static keyword applied to it. A non-static nested class can directly access both static and non static variables of its outer class 
+
+![non-static nested class](<WhatsApp Image 2025-04-17 at 12.39.59_49deebf8.jpg>)

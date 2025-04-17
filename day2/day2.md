@@ -121,3 +121,19 @@ In java it is possible to have a variable in the child class with the same name 
  In java it is possible to have a method in the child class with the same name as that of it parent class. In such cases the method in the child class tends to hide methods of the parent class in the child class. This mechanism is called method overriding and the methods are called overrided methods
 
  In order to access the hidden parent class method in the child class we require the help of super keyword
+
+## what is the use of super keyword?
+
+Jab child class me bhi A naam ka variable ho
+aur parent class me bhi A naam ka variable ho,
+tab dono me confusion ho jaata hai ki kaunsa a chahiye.
+
+Tab hum super.a likh ke parent class wale a ko specifically bolte hain:
+
+"Bhai mujhe parent wala A chahiye!"
+
+
+## What is the use of super method?
+super is a method which is use to access the parent class from the child class because a parent class constructor is not inherited from its child class.
+
+

@@ -30,3 +30,6 @@ Using method overloading java supports the concept of Polymorphosim.
 
 ## constructor overloading
 In java it is possible to have multiple constructor within a class as long as they differin their number or types of arguments. This mechanism is called constructor overloading and the constructors are called overloaded constructors. 
+
+
+using constructor overloading we can initailize diffrent object of thew same class with diffrent values

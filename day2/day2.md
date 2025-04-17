@@ -26,3 +26,7 @@ primitive data type
 In java it is posssible to have multiple method within the same class, with the same name as long as they differ in their argument list. 
 this mechanism is called method overloading and the method are called as overloaded methods
 
+using method overloading java supports the concept of Polymorphosim.
+
+
+wap to calculate the area of rectangle and that of a circle by overloading the area method.

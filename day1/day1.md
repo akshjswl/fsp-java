@@ -149,7 +149,8 @@ creating an objecto f a class is a two steps process:
 ## constructor in java
 
 A constructor is a special method which has the same name is that of the class within which it resides.
-A constructor doesnt have any return type not even void. A constructor is called  automatically when we create an objectr of the class.
+A constructor doesnt have any return type not even void.
+A constructor is called  automatically when we create an object of the class.
 A constructor is used to initialise an object of the class
 
 

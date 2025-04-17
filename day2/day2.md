@@ -117,7 +117,7 @@ In java it is possible to have a variable in the child class with the same name 
 
 
  ## method overriding
- 
+
  In java it is possible to have a method in the child class with the same name as that of it parent class. In such cases the method in the child class tends to hide methods of the parent class in the child class. This mechanism is called method overriding and the methods are called overrided methods
 
- in order to access the hidden parent class method in the child class we require the help of super keyword
+ In order to access the hidden parent class method in the child class we require the help of super keyword

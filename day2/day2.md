@@ -137,3 +137,40 @@ Tab hum super.a likh ke parent class wale a ko specifically bolte hain:
 super is a method which is use to access the parent class from the child class because a parent class constructor is not inherited from its child class.
 
 
+Rules to follow while using super method:
+1. A super method call should always be written inside a child class constructor.
+2. the super method call is always be the first statement inside the child class constructor.
+
+wap to display the use of super method.
+
+
+the final keyword has three uses 
+1. To create a naming constant
+    final datatype variableName = value;
+        final double pi=3.1415;
+2. To prevent method overriding 
+    if the final keyword is writeen before the parent class thamn that method will not be overrided in its child class
+    class A{
+        void disp()
+        {
+            .....
+        }
+    }
+    class B extends A
+    {
+        void disp()
+        {
+            .....
+        }
+    }
+3. To prevent inheritance of a class- 
+If final key word is given before a class definition than that class cannot be inherited by any child class
+
+class A
+{
+    ......
+}
+class B extends A
+{
+    ......
+}

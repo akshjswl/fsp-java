@@ -10,7 +10,7 @@ primitive data type
 1. Boolean- Boolean(1bit)
 2. character- char(2bytes)
 3. integer-byte(1 byte), short(2 bytes), Int(4 byte), Long (8 bytes)
-4. floating - First, double
+4. floating - Float(4 bytes), double(8 bytes)
 
  non-primitive data type
 1. string 

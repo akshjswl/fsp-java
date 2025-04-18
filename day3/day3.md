@@ -51,3 +51,9 @@ wap to display use of abstract class.
 
 
 
+Disadvantage: 
+1. An abstract class doesnot create a pure blue print of a code because in an abstract class we can keep method definition also.
+
+## what do you mean by dynamic method dispatch?
+A parent class refrence variable can refer to any of the child class object but the vice versa is not.
+dynamic method dispatch is a mechanism by which calls to overidded methods are resolved at run time using dynamic method  dispatch java supports the concept of run time polymorphism.

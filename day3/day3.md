@@ -76,3 +76,17 @@ wap to display use of interface
 
 
 upto v7 which contains only one abstract method is called single abstract method interface. but from v8 this same concept renamed as functional interface.
+
+
+## Types of interface:
+An interface can be classified into mainly three types 
+1. normal interface
+2. single abstract method interface/ functional interface
+3. marker interface
+
+1. normal interface
+An interface that consist of more than one abstract method is called a normal interface
+
+2. functional interface:
+the interface which contain ony one abstract method is called a functional interface
+3. marker interface- an interface which doesnot contain any abstract method is called a marker interface

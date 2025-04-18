@@ -61,3 +61,15 @@ dynamic method dispatch is a mechanism by which calls to overidded methods are r
 ## Interface in java
 An interface is special kind of class which may contain variables as wellas methods where the variables are by default static and final.
 The method in an interface are by deault public and abstract like an abstract class we cannot create an object of an interface.
+Interface syntax:
+        interface interfacename{
+            static and final varible declaration
+            public and abstract methods 
+        }
+        syntax for a class implementing an interface
+        class classname implements interfacename1, interfacename2,......
+        {
+            body of the class
+        }
+
+wap to display use of interface

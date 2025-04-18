@@ -35,3 +35,6 @@ wap to display creation of garbage in java.
 3. An abstract method is a method which doesnot have any body.
 4. we cannot create an object of an abstract class. it always acts as a super class.
 5. the class which inherits an abstract class has to provide body to all the abstract method of an abstract class
+6. It is used to create a blue print of a code
+
+wap to display use of abstract class.

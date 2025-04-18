@@ -19,4 +19,7 @@ wap to display the use of THIS keyword
 
 
 ## garbage collection in java
-when no refrence to an object exist than that object is considered in no longer in use. Such kind of unrefrenced objects are called garbage in java 
+when no refrence to an object exist than that object is considered in no longer in use. Such kind of unrefrenced objects are called garbage in java
+JVM keeps tracks of such kind of unrefrence object and remove them from memory automatically when required. This mechanism of automatic removal of unrefrenced object by JVM is called garbage collection
+
+note: the time for garbage collection cannot be predicted in advance

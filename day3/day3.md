@@ -90,3 +90,10 @@ An interface that consist of more than one abstract method is called a normal in
 2. functional interface:
 the interface which contain ony one abstract method is called a functional interface
 3. marker interface- an interface which doesnot contain any abstract method is called a marker interface
+
+### Packages
+
+A package is used to store classes,interfaces as well as other packages. In java package is nothing but a folder
+In java we use package for two reason:
+1. to perform code reusablity.
+2. to provide data security

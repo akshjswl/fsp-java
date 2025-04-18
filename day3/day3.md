@@ -73,3 +73,6 @@ Interface syntax:
         }
 
 wap to display use of interface
+
+
+upto v7 which contains only one abstract method is called single abstract method interface. but from v8 this same concept renamed as functional interface.

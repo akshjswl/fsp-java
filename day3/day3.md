@@ -57,3 +57,7 @@ Disadvantage:
 ## what do you mean by dynamic method dispatch?
 A parent class refrence variable can refer to any of the child class object but the vice versa is not.
 dynamic method dispatch is a mechanism by which calls to overidded methods are resolved at run time using dynamic method  dispatch java supports the concept of run time polymorphism.
+
+## Interface in java
+An interface is special kind of class which may contain variables as wellas methods where the variables are by default static and final.
+The method in an interface are by deault public and abstract like an abstract class we cannot create an object of an interface.

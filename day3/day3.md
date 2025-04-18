@@ -123,3 +123,14 @@ In java there are 5 ways to access a package:
 Same package same class:
 
 ![alt text](<WhatsApp Image 2025-04-18 at 15.08.37_5eb64f2a.jpg>)
+
+In case of same package same class all the four variables are accesible irrespective of their access specifier
+
+
+
+
+same package sub class
+
+
+
+![alt text](<WhatsApp Image 2025-04-18 at 15.46.05_66a1d413.jpg>)

@@ -96,4 +96,30 @@ the interface which contain ony one abstract method is called a functional inter
 A package is used to store classes,interfaces as well as other packages. In java package is nothing but a folder
 In java we use package for two reason:
 1. to perform code reusablity.
-2. to provide data security
+2. to provide data security.
+
+
+![alt text](<WhatsApp Image 2025-04-18 at 14.53.09_d5acc30a.jpg>)
+
+
+
+in order to get all the six classes in my application i need to import these 3 commands:
+import abc.*;
+import abc.xyz*;
+import abc.xyz.mno.*;
+
+types of package access in java:
+In java there are 5 ways to access a package:
+1. same package same class
+2. same package sub class
+3. same package non-sub class
+4. diffrent package sub class
+5. diffrent package non-sub class
+
+
+
+
+
+Same package same class:
+
+![alt text](<WhatsApp Image 2025-04-18 at 15.08.37_5eb64f2a.jpg>)

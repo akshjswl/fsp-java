@@ -16,3 +16,7 @@ In order to resolve this name space collison we require the help of THIS keyword
 
 
 wap to display the use of THIS keyword
+
+
+## garbage collection in java
+when no refrence to an object exist than that object is considered in no longer in use. Such kind of unrefrenced objects are called garbage in java 

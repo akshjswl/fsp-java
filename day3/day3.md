@@ -23,3 +23,7 @@ when no refrence to an object exist than that object is considered in no longer 
 JVM keeps tracks of such kind of unrefrence object and remove them from memory automatically when required. This mechanism of automatic removal of unrefrenced object by JVM is called garbage collection
 
 note: the time for garbage collection cannot be predicted in advance
+
+An object can have more than one refrences  but a single refrence variable cannot point to two object at the same time
+
+wap to display creation of garbage in java.

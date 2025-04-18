@@ -26,6 +26,16 @@ note: the time for garbage collection cannot be predicted in advance
 
 An object can have more than one refrences  but a single refrence variable cannot point to two object at the same time
 
+
+
+![alt text](<WhatsApp Image 2025-04-18 at 10.58.48_a78bf531.jpg>)
+
+
+
+
+
+
+
 wap to display creation of garbage in java.
 
 
@@ -38,3 +48,6 @@ wap to display creation of garbage in java.
 6. It is used to create a blue print of a code
 
 wap to display use of abstract class.
+
+
+

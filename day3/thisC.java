@@ -2,8 +2,8 @@ class this_eg{
     int a,b;
     this_eg(int a, int b)
     {
-        a=a;
-        b=b;
+        this.a=a;
+        this.b=b;
     }
     void disp(){
         System.out.println(a+ " " +b);

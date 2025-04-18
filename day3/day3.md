@@ -27,3 +27,11 @@ note: the time for garbage collection cannot be predicted in advance
 An object can have more than one refrences  but a single refrence variable cannot point to two object at the same time
 
 wap to display creation of garbage in java.
+
+
+## what do you mean by abstract class in java?
+1. An abstract class is a class which has abstract keyword applied to it.
+2. It may contain normal method as well as abstract method. 
+3. An abstract method is a method which doesnot have any body.
+4. we cannot create an object of an abstract class. it always acts as a super class.
+5. the class which inherits an abstract class has to provide body to all the abstract method of an abstract class

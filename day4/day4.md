@@ -35,3 +35,6 @@ wap to display use of try and catch
 
 ![alt text](<WhatsApp Image 2025-04-19 at 11.05.45_f100351a.jpg>)
 
+ note: A  single try block can have multiple catch block. Bases on the nature of the exception appropriate catch block are called 
+
+ <!-- program to display multiple catch against a single try block -->

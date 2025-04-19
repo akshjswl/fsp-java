@@ -64,3 +64,55 @@ throw new any_exception_class_name();
 
 
 <!-- wap to display use of throw keyword -->
+
+the throw statement should always be written inside a try block
+
+wap to accept two numbers passing to a function and calculate the sum of the two numbers.If the sum is +ve than display the result otherwise create an exception manually and give appropriate message.
+
+
+## use of throws keyword
+sometimes in java a method which is capable of generating an exception doesnot handle the exception on its own. If its wants to inform this behaviour to all the other methods which may call in future than thatcan be done using the concept of throws keyword.
+
+
+syntax:
+class classname{
+    returntype methodname(argument_list)throws exception1, exception2,...
+    {
+        .....
+    }
+}
+<!-- wap to display use of throws keyword -->
+
+System.in represents keyboard inputs
+
+readline methods accepts any method in the form of string
+
+
+
+
+an exception can be classified into :
+1. Checked exception
+2. Unchecked exception
+
+1. Checked exception: these are the exception which are checked by the compiler at the time of compiling. Here the compiler checks if there is a checked expression in your program whether there is  a try catch block or you have used the throws keyword in your program if none of thse two are present than the compiloer generates a synatctical error.
+e.g.- (io) exception
+        sql exception
+
+2. UnChecked exception: these are the exception which are not checked by the compiler at the time of compiling. this type of exception should be handle using try and catch.
+
+
+## use of finally block
+finally is a block which is always exexcuted whether an exception occured or not.
+it is always written after try and catch block
+
+synatx:
+try{
+    executable block
+}
+catch (Exception_classname refrence){
+    executable block
+}
+finally{
+    executable block
+}
+

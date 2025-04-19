@@ -116,3 +116,22 @@ finally{
     executable block
 }
 
+wap to create four threads including main by implementing runnable interface.
+
+
+
+
+
+
+
+
+
+1. create a class which extends the thread class
+2. call the start method
+3. the start method automatically calls the run method. it is inside the run method where we have to write the code for another thread.
+
+
+<!-- wap to display creation of a thread by extending the thread class -->
+
+## Among thses two ways of creating a thread which one is best and why
+if a create a thread by extending the thread class than that class willl not be able to extend any other class if needed because java doesnot supports the concept of multiple inheritance but if we create a thread by implementing runnable interface than that class still has the option to extend any other class if needed that is why creating a thread by implementing runnable interface is considered as the best.

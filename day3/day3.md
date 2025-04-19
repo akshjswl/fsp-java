@@ -140,3 +140,4 @@ same package sub class
 same package non sub class
 
 
+in diffrent package sub class private variable and default variable are not accesible 

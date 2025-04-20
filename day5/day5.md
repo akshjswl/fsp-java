@@ -107,3 +107,9 @@ public class TrivialApplet extends Applet{}
 	height ="300" width="400">
 	</applet>
 </html>
+
+![alt text](<WhatsApp Image 2025-04-20 at 15.33.52_269b48f8.jpg>)
+
+
+
+

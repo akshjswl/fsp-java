@@ -62,4 +62,48 @@ The String class contains some inbuilt method using which we can manipulate a gi
 A substring method is used toextract a particular string from a given string based on the index position.
 
 10. toLowerCase -  this method is used to convert a upper string to the corresponding lower string.
-10. toUpperCase -  this method is used to convert a lower string to the corresponding upper string.
+11. toUpperCase -  this method is used to convert a lower string to the corresponding upper string.
+12. trim - this is used to remove any leading and trailing spaces in a string.
+
+
+2. StringBuffer:
+A string buffer class is a mutable class. That means any changes made to a particular string object doesnot create a seperates object but the original string buffer object is affected. 
+The string buffer class also contains a certain method using which we can maipulate a string
+1. Append: this method is used to concatinate two strings together.
+2. insert: this method is used to insert a particular string in a given string at a particular index position.
+3. replace: this method is used to replace sequence of a character in a string based on a index position.
+4. delete: this is used to delete a sequence of character from a string based on a index pos.
+5. reverse: this is used to reverse the content of a particular string.
+
+<!-- wap to accept a string from a user and check whether the string is palindrome or not -->
+
+
+
+## Applet
+
+It is a type of java program using which java implements graphics. The main diffrence between a normal program and that of an applet is that a normal program contains a main method but an applet program  doesnot contain any main method.
+An applet program is created by extending a class called Applet.
+hierarchy:
+java.lang.object
+    |
+    +...java.awt.Component
+        |
+        +.... java.awt.Panel
+            |
+            +....java.applet.Applet
+                |
+                +....javax.swing.JApplet
+
+
+
+## wap to create a blank applet
+1. create a Trivial.Applet.java
+import java.awt.*;
+import java.applet.Applet;
+public class TrivialApplet extends Applet{}
+2. create an html file 
+<html>
+	<applet code="TrivialApplet.class"
+	height ="300" width="400">
+	</applet>
+</html>

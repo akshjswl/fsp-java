@@ -62,3 +62,18 @@ Vector uses a dynamic array to store the data elements. It is similar to ArrayLi
 Stack:
 The stack is the subclass of Vector. It implements the last in first out data structure , i.e. Stack. The stack contain all of the method of vector class and provides its methods like boolean push(), pop() which defines its properties.
 
+
+
+## Queue Interface
+
+Queue interface maintains the first-in-first-out order.
+It can be defined as an ordered list that is used to hold the elements which are about to be processed.
+There are various classes like PriorityQueue, Deque, and ArrayDeque which implements the Queue interface.
+
+
+## priority queue
+Priority queue class implements the queue interface . it holds the element or object which are to be processed by their priorities.
+Priority Queue doesn't allow null values to be stored in the queue.
+It is only ordered/sorted in the sence that the first element is the least.
+
+program to display use of priority queue

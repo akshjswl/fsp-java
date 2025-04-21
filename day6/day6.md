@@ -15,3 +15,6 @@ the repaint method is used to manually called the paint method
 2. Java Collections can achieve all the operations that we perform on a data such as searching, sorting, insertion, manipulation, and deletion.
 3. Java Collection means a single unit of objects.
 4. The java.util package contains all the classes and interfaces for the Collection framework.
+
+
+![alt text](<WhatsApp Image 2025-04-21 at 12.21.33_91344193.jpg>)

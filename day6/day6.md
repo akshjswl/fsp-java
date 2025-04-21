@@ -18,3 +18,42 @@ the repaint method is used to manually called the paint method
 
 
 ![alt text](<WhatsApp Image 2025-04-21 at 12.21.33_91344193.jpg>)
+
+
+the collection inerface is the backbone of entire collection framework this interface is extended by three interfaces;
+1. list
+2. queue
+3. set
+
+
+list: 
+1. List interface is the child interface of Collection interface. It inhibits a list type data structure in which we can store the ordered collection of objects. It can have duplicate values.
+
+2. List interface is implemented by the classes ArrayList, LinkedList, Vector, and Stack.
+
+ArrayList:
+The ArrayList class implements the List interface. 
+It uses a dynamic array to store the duplicate elements of different data types.
+The ArrayList class maintains the insertion order and is non-synchronized. 
+The elements stored in the ArrayList class can be randomly accessed.
+
+
+The size method is used to determine the number of objects present in the collection.
+add method is used to insert object in an array list
+remove method is used to remove object in an array list
+the hasNext method of the iterator checks whether any element is present in the array list or not if elements are present in the array list than has next method returns 
+
+
+
+linkedList:
+linkedList class implements the collection interface.
+it is not synchronise.
+LinkedList implementation is faster in compare of arraylist.
+
+<!-- wap to display use of linked list. -->
+
+
+vector:
+Vector uses a dynamic array to store the data elements. It is similar to ArrayList. However, It is synchronised.
+
+<!-- wap to display use of vector -->

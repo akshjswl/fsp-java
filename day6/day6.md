@@ -57,3 +57,7 @@ vector:
 Vector uses a dynamic array to store the data elements. It is similar to ArrayList. However, It is synchronised.
 
 <!-- wap to display use of vector -->
+
+
+Stack:
+The stack is the subclass of Vector. It implements the last in first out data structure , i.e. Stack. The stack contain all of the method of vector class and provides its methods like boolean push(), pop() which defines its properties.

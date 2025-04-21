@@ -3,8 +3,8 @@ class UseOfVector
 {
     public static void main(String args[]){
         Vector v = new Vector();
-        v.add("Ayush");
-        v.add("Amit");
+        v.add(8);
+        v.add(10);
         v.add("Ashish");
         v.add("Garima");
         v.add("Garima");

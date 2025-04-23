@@ -77,3 +77,15 @@ Priority Queue doesn't allow null values to be stored in the queue.
 It is only ordered/sorted in the sence that the first element is the least.
 
 program to display use of priority queue
+
+Dequeue Interface
+Dequeue Interface extends the queue inerface. In Dequeue, we can remove and add or delete elements from noth the ends 
+
+Array Deque class implements the deque interface .it facilities us to see the deque . Unlike queue , we can add or delete the elements from both the ends.
+Array Deque is faster than arraylist and stack.
+
+
+## Set Interface
+Set Interface in java is present.
+
+
